@@ -1,0 +1,3 @@
+- **Django Backend**: Stores temperature and humidity data from ESP32 devices.
+- **ESP32 Arduino Code**: Enables ESP32 devices to connect to WiFi and transmit sensor data.
+- **Real-Time Data Visualization**: Displays the collected data on a frontend interface (integrated with a mobile app in a separate repository).

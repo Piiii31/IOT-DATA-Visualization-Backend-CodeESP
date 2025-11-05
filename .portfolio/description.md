@@ -1,0 +1,1 @@
+This repository contains the Django server backend for storing **temperature and humidity data** and the Arduino code for ESP32 devices. The **ESP32** devices connect via Bluetooth (BLE), receive WiFi credentials, and send sensor data to the server for storage and **real-time visualization**.
